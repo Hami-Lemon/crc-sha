@@ -1,4 +1,4 @@
-module github.com/Hami-Lemon/crcsha
+module github.com/Hami-Lemon/crc-sha
 
 go 1.18
 
